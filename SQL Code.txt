@@ -49,7 +49,7 @@
 	GROUP BY m.id
 	) as mean_n
 	 
-	ON mean_d.id=mean_n.id
+	ON mean_d.id=mean_n.id;
 	 
 	SELECT * FROM indices;		
 
