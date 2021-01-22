@@ -1,4 +1,7 @@
-----SQL CODE
+-----SQL CODE-----
+---Jean-Luc Rosien
+
+
 ---Calculating First Indices
 ---Average Temperature, average daily and average night temperature
 	DROP VIEW IF EXISTS indices CASCADE; 
